@@ -1,26 +1,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://beforethemakeup.github.io/services-facials.html</loc>
-	</url>
-	<url>
-		<loc>http://beforethemakeup.github.io/services-specialty.html</loc>
-	</url>
-	<url>
-		<loc>http://beforethemakeup.github.io/services-waxing.html</loc>
-	</url>
-	<url>
 		<loc>http://beforethemakeup.github.io/index.html</loc>
 	</url>
 	<url>
-		<loc>http://beforethemakeup.github.io/contact-us.html</loc>
+		<loc>http://beforethemakeup.github.io/enhancements.html</loc>
 	</url>
 	<url>
-		<loc>http://beforethemakeup.github.io/specialty-body-sculpting.html</loc>
+		<loc>http://beforethemakeup.github.io/waxing.html</loc>
 	</url>
 	<url>
-		<loc>http://beforethemakeup.github.io/services-enhancements.html</loc>
+		<loc>http://beforethemakeup.github.io/specialty.html</loc>
 	</url>
 	<url>
-		<loc>http://beforethemakeup.github.io/add-ons.html</loc>
+		<loc>http://beforethemakeup.github.io/facials.html</loc>
+	</url>
+	<url>
+		<loc>http://beforethemakeup.github.io/contactus.html</loc>
 	</url>
 </urlset>
